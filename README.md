@@ -33,7 +33,7 @@ Read A Book es una plataforma web CRUD para la gestión de libros y usuarios. Pe
 ## 📝 Instalación y Configuración
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/BilyAlv/ReedABook.git
+   git clone https://github.com/BilyAlv/Proyecto-P3-readabook
    ```
 2. Importar la base de datos desde el archivo `db/db.sql` o `db/db 2.sql` a tu servidor MySQL.
 3. Configurar el archivo `includes/db.php` con tus credenciales de base de datos.
